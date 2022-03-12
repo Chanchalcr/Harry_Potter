@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://da28rauy2a860.cloudfront.net/wellbeing/wp-content/uploads/2020/07/21170325/magic.jpg);
+    background-size: cover;
+}
+*{
+    color: aliceblue;
+}
+h1{
+    background-color: black;
+    text-align: center;
+}
+li{
+    display: inline;
+    margin: 170px;
+    font-size: 15px;
+}
